@@ -16,14 +16,3 @@ Bootstrap 5 для стилей
 
 Используется пакет chrome-php/chrome для headless-браузера
 
-Парсер:
-
-    Запускает Chrome в headless-режиме
-
-    Переходит на целевой URL API
-    
-    Ждёт загрузки контента
-    
-    Извлекает innerText из <body>
-    
-    Парсит JSON и маппит поля: objId → dom_id, objCommercNm → name
