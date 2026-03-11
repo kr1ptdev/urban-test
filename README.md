@@ -7,7 +7,9 @@
 # Front-end
 
 Inertia.js + Vue 3 (сборка через Vite)
+
 Bootstrap 5 для стилей
+
 Простая таблица с выводом всех записей
 
 # Back-end
