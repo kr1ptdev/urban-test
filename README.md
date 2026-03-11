@@ -10,14 +10,20 @@ Inertia.js + Vue 3 (сборка через Vite)
 
 Bootstrap 5 для стилей
 
-Простая таблица с выводом всех записей
+Таблица с выводом всех записей
 
 # Back-end
 
-Используется chrome-php/chrome для headless-браузера
+Используется пакет chrome-php/chrome для headless-браузера
+
 Парсер:
+
     Запускает Chrome в headless-режиме
+
     Переходит на целевой URL API
+    
     Ждёт загрузки контента
+    
     Извлекает innerText из <body>
+    
     Парсит JSON и маппит поля: objId → dom_id, objCommercNm → name
