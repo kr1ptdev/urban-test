@@ -16,3 +16,4 @@ Bootstrap 5 для стилей
 
 Используется пакет chrome-php/chrome для headless-браузера
 
+P.S Соавтор тоже я
